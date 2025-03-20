@@ -1,1 +1,1 @@
-# cra-template-beta
+# cra-template-vite-ts

@@ -1,4 +1,11 @@
 {
+  "package":{
+    "dependencies":{
 
-
+    },
+    "scripts":{
+      "dev":"",
+      "build":""
+    }
+  }
 }
