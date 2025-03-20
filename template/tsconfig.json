@@ -1,5 +1,10 @@
 {
   "compilerOptions":{
-    "jsx":"react-jsx"
+    "baseUrl":".",
+    "jsx":"react-jsx",
+    "types":["vitest/globals"],
+    "paths":{
+      "@/*":["src/*"]
+    }
   }
 }
